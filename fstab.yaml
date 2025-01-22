@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://https://author-p133739-e1306963.adobeaemcloud.com//bin/franklin.delivery/philcannon/phil-editor/main"
+    url: "https://https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/philcannon/phil-editor/main"
     type: "markup"
     suffix: ".html"
